@@ -195,18 +195,3 @@ Allocate resources efficiently
 Predict situations quickly
 
 Solve real-world computational challenges
-
-
-
-📊 Learning Outcome
-This project helped understand:
-
-Search algorithms in AI
-
-Emergency decision systems
-
-Constraint solving methods
-
-Real-world AI applications
-
-Importance of choosing right algorithm
