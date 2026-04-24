@@ -16,15 +16,6 @@ A professional **Streamlit-based web application** that handles emergency situat
 
 </div>
 
----
-
-## 👥 Team Members
-
-- Sree Abbirami (RA2411026050002)
-- Vino Bala (RA2411026050054)
-
----
-
 ## 📌 About The Project
 
 This project simulates a **Smart City Emergency Management System** that makes fast and intelligent rescue decisions using Artificial Intelligence.
