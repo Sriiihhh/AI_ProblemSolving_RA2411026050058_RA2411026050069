@@ -148,6 +148,7 @@ Plan:
 3. Dispatch Rescue
 4. Reach Hospital
 
+
 🏁 Final Conclusion (Both Projects)
 This assignment demonstrates two powerful AI problem-solving techniques:
 
@@ -164,6 +165,8 @@ Allocate resources efficiently
 Predict situations quickly
 
 Solve real-world computational challenges
+
+
 
 📊 Learning Outcome
 This project helped understand:
