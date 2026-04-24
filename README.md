@@ -103,32 +103,62 @@ Delivery Routing
 
 Game AI Movement
 
-Network Search Systems
-
 <div align="center">
-🚨 Smart City Emergency Decision System
-🚀 Intelligent Emergency Response using Artificial Intelligence
-A professional Streamlit web application that manages emergency situations using
-Machine Learning, Rule-Based Logic, CSP, A Search, Means-Ends Analysis*.
+
+# 🧭 Smart Navigation System using BFS & DFS
+
+### 🚀 Intelligent Path Finding using Artificial Intelligence
+
+A professional Python application that finds routes between locations using  
+**Breadth First Search (BFS)** and **Depth First Search (DFS)** algorithms.
 
 <br>
-Python
 
-
-Status
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/Algorithm-BFS%20%7C%20DFS-orange?style=for-the-badge)
+![Graph](https://img.shields.io/badge/System-Graph%20Search-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 </div>
 
-📌 About The Project
-This project is designed for Smart City Emergency Management where AI helps take fast rescue decisions.
+---
+
+## 📌 About The Project
+
+This project simulates a **Smart Navigation System** where AI algorithms help users travel from start location to destination.
 
 The system can:
 
-✅ Predict severity using ML
-✅ Assign priority using rules
-✅ Allocate units using CSP
-✅ Find shortest route using A*
-✅ Generate smart rescue plan
+✅ Find shortest route using BFS  
+✅ Find valid route using DFS  
+✅ Compare BFS and DFS results  
+✅ Work with graph city maps  
+✅ Learn AI search practically  
+
+---
+
+## 🖼️ Project Preview
+
+```text
+City Map:
+
+Start → A, B, F
+A → C, D
+B → E, C
+C → Goal
+D → Goal
+E → Goal
+F → Goal
+```
+
+Output:
+
+BFS Route:
+Start → F → Goal
+
+DFS Route:
+Start → A → C → Goal
+
 
 🖼️ Project Preview
 Emergency Type : Severe
