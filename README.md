@@ -1,14 +1,14 @@
-# AI Problem Solving Assignment
+## AI Problem Solving Assignment
 
 ---
 
-## 📌 Repository
+ Repository
 
 AI_ProblemSolving_-RA2411026050058__RA2411026050069-
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Sreelakshmi (RA2411026050058)  
 - Vamsharaj Rishika (RA2411026050069)
@@ -17,9 +17,9 @@ AI_ProblemSolving_-RA2411026050058__RA2411026050069-
 
 <div align="center">
 
-# 🧭 Smart Navigation System using BFS & DFS
+## Smart Navigation System using BFS & DFS
 
-### 🚀 Intelligent Path Finding using Artificial Intelligence
+ Intelligent Path Finding using Artificial Intelligence
 
 A professional Python application that finds routes between locations using  
 **Breadth First Search (BFS)** and **Depth First Search (DFS)** algorithms.
@@ -35,21 +35,21 @@ A professional Python application that finds routes between locations using
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 This project simulates a **Smart Navigation System** where AI algorithms help users travel from start location to destination.
 
 The system can:
 
-✅ Find shortest route using BFS  
-✅ Find valid route using DFS  
-✅ Compare BFS and DFS results  
-✅ Work with graph city maps  
-✅ Learn AI search practically  
+ Find shortest route using BFS  
+ Find valid route using DFS  
+ Compare BFS and DFS results  
+ Work with graph city maps  
+ Learn AI search practically  
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
 ```text
 City Map:
@@ -71,21 +71,21 @@ DFS Route:
 Start → A → C → Goal
 ```
 
-✨ Key Features
-🧭 Route Finder
+ Key Features
+ Route Finder
 
-⚡ BFS Search
+ BFS Search
 
-🔍 DFS Search
+ DFS Search
 
-🎲 Random Paths
+ Random Paths
 
-📚 Educational
+ Educational
 
-💻 Python Based
+ Python Based
 
 
-🎯 Key Insights
+ Key Insights
 BFS guarantees shortest path
 
 DFS explores deep nodes first
@@ -94,7 +94,7 @@ Useful for graph traversal problems
 
 Smart route planning possible using AI
 
-🚀 Real-World Applications
+ Real-World Applications
 Google Maps Navigation
 
 Robot Path Planning
@@ -105,9 +105,9 @@ Game AI Movement
 
 <div align="center">
 
-# 🧭 Smart Navigation System using BFS & DFS
+#  Smart Navigation System using BFS & DFS
 
-### 🚀 Intelligent Path Finding using Artificial Intelligence
+###  Intelligent Path Finding using Artificial Intelligence
 
 A professional Python application that finds routes between locations using  
 **Breadth First Search (BFS)** and **Depth First Search (DFS)** algorithms.
@@ -123,21 +123,21 @@ A professional Python application that finds routes between locations using
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 This project simulates a **Smart Navigation System** where AI algorithms help users travel from start location to destination.
 
 The system can:
 
-✅ Find shortest route using BFS  
-✅ Find valid route using DFS  
-✅ Compare BFS and DFS results  
-✅ Work with graph city maps  
-✅ Learn AI search practically  
+ Find shortest route using BFS  
+ Find valid route using DFS  
+ Compare BFS and DFS results  
+ Work with graph city maps  
+ Learn AI search practically  
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
 ```text
 City Map:
@@ -160,7 +160,7 @@ DFS Route:
 Start → A → C → Goal
 
 
-🖼️ Project Preview
+ Project Preview
 Emergency Type : Severe
 Risk Level     : 8
 Delay Time     : 5 mins
@@ -179,12 +179,12 @@ Plan:
 4. Reach Hospital
 
 
-🏁 Final Conclusion (Both Projects)
+ Final Conclusion (Both Projects)
 This assignment demonstrates two powerful AI problem-solving techniques:
 
-✅ Graph Search Algorithms (BFS, DFS, A*)
-✅ Machine Learning Based Decision Making
-✅ Constraint Satisfaction Problem (CSP)
+ Graph Search Algorithms (BFS, DFS, A*)
+ Machine Learning Based Decision Making
+ Constraint Satisfaction Problem (CSP)
 
 Together, they show how AI can:
 
