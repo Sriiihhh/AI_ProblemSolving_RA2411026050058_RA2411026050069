@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚨 Smart City Emergency Decision System
+# Smart City Emergency Decision System
 
-### 🚀 Intelligent Emergency Response using Artificial Intelligence
+###  Intelligent Emergency Response using Artificial Intelligence
 
 A professional **Streamlit-based web application** that handles emergency situations using  
 **Machine Learning, Rule-Based Logic, CSP, A* Search, and Means-Ends Analysis**.
@@ -16,21 +16,21 @@ A professional **Streamlit-based web application** that handles emergency situat
 
 </div>
 
-## 📌 About The Project
+##  About The Project
 
 This project simulates a **Smart City Emergency Management System** that makes fast and intelligent rescue decisions using Artificial Intelligence.
 
 The system can:
 
-✅ Predict emergency severity using Machine Learning  
-✅ Assign priority levels using Rule-Based Logic  
-✅ Allocate rescue units using CSP  
-✅ Find shortest route using A* Search  
-✅ Generate action plan using Means-Ends Analysis  
+ Predict emergency severity using Machine Learning  
+ Assign priority levels using Rule-Based Logic  
+ Allocate rescue units using CSP  
+ Find shortest route using A* Search  
+ Generate action plan using Means-Ends Analysis  
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
 ```text
 Emergency Input:
